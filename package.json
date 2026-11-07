@@ -1,0 +1,5 @@
+{
+  "name": "superagent-playground",
+  "private": true,
+  "scripts": { "start": "node app.js" }
+}
